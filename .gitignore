@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -42,12 +43,15 @@ local.properties
 *.sln.docstates
 
 # Build results
+=======
+>>>>>>> 339f07e4a215943ba09b4e0e754772312aa22bc1
 .DS_Store
 node_modules
 bowe_components
 .tmp
 .sass-cache
 builds/**/images/*
+<<<<<<< HEAD
 
 [Dd]ebug/
 [Rr]elease/
@@ -220,3 +224,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+=======
+>>>>>>> 339f07e4a215943ba09b4e0e754772312aa22bc1
